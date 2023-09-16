@@ -1,2 +1,19 @@
-# twitter-login-frontend desing using html,css and javascript
+# Twitter Frontend Design Form
+
+## Description
+This project is a Twitter frontend login form using HTML and CSS.
+
+## Technologies Used
+- HTML
+- CSS
+
+## Features
+- Twitter-like login form design
+- Stylish and responsive design using HTML and CSS
+
+## How to Use
+1. Clone this repository to your local machine.
+2. Open the `index.html` file in your browser.
+3. Fill out the form and click submit.
+
 https://anupam-singh88.github.io/twitter-login-frontend/
